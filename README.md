@@ -1,2 +1,2 @@
 # bloc-jams-jquery
-sweet jams
+bloc jams version 2
